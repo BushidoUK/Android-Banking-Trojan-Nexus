@@ -1,0 +1,54 @@
+﻿ Common Name, AKA, Code Similarities, Associated TAs, Last Reported, Source Link
+TangleBot,-,Medusa,-,Oct-21,https://www.proofpoint.com/us/blog/threat-insight/mobile-malware-tanglebot-untangled
+Alien,-,Cerberus,-ring0-,Sep-21,https://malpedia.caad.fkie.fraunhofer.de/details/apk.alien
+Anubis,-,BankBot,Maza-in,Sep-21,https://malpedia.caad.fkie.fraunhofer.de/details/apk.anubis
+Cerberus,-,-,ANDROID,Sep-21,https://malpedia.caad.fkie.fraunhofer.de/details/apk.cerberus
+ERMAC,-,Cerberus,DukeEugene,Sep-21,https://www.threatfabric.com/blogs/ermac-another-cerberus-reborn.html
+FluBot,"Cabassous, FakeChat",-,-,Sep-21,https://malpedia.caad.fkie.fraunhofer.de/details/apk.flubot
+Gustuff,-,-,-,Sep-21,https://malpedia.caad.fkie.fraunhofer.de/details/apk.gustuff
+Hydra,-,-,-,Sep-21,https://malpedia.caad.fkie.fraunhofer.de/details/apk.hydra
+MalRhino,-,-,-,Sep-21,https://research.checkpoint.com/2021/pixstealer-a-new-wave-of-android-banking-trojans-abusing-accessibility-services/
+Medusa,Gorgona,-,-,Sep-21,https://malpedia.caad.fkie.fraunhofer.de/details/apk.medusa
+PixStealer,-,-,-,Sep-21,https://research.checkpoint.com/2021/pixstealer-a-new-wave-of-android-banking-trojans-abusing-accessibility-services/
+SOVA,-,-,sovenok,Sep-21,https://malpedia.caad.fkie.fraunhofer.de/details/apk.sova
+TeaBot,"Toddler, Anatsa",-,-,Sep-21,https://malpedia.caad.fkie.fraunhofer.de/details/apk.anatsa
+Aberebot,-,Cerberus,AbereBankingBot,Jul-21,https://blog.cyble.com/2021/07/30/aberebot-on-the-rise-new-banking-trojan-targeting-users-through-phishing/
+Coper,-,-,-,Jul-21,https://news.drweb.com/show/?p=0&lng=en&i=14259&c=0
+Oscorp,UBEL,-,-,Jul-21,https://malpedia.caad.fkie.fraunhofer.de/details/apk.oscorp
+Vultur,-,-,-,Jul-21,https://www.threatfabric.com/blogs/vultur-v-for-vnc.html
+MoqHao,"Shaoye, Xloader, Wroba.g",-,RoamingMantis,May-21,https://malpedia.caad.fkie.fraunhofer.de/details/apk.moqhao
+Basbanke,"BrazKing, Banbra",-,-,Apr-21,https://securelist.com/basbanke-trend-setting-brazilian-banking-trojan/90365/
+BlackRock,-,"Xerxes, LokiBot",DukeEugene,Mar-21,https://www.threatfabric.com/blogs/blackrock_the_trojan_that_wanted_to_get_them_all.html
+Huracan,-,-,-,Feb-21,https://twitter.com/Bank_Security/status/1363930541372891137
+Ghimob,-,-,-,Nov-20,https://securelist.com/ghimob-tetrade-threat-mobile-devices/99228/
+Wroba,-,-,RoamingMantis,Nov-20,https://www.avira.com/en/blog/the-android-banking-trojan-wroba-shifts-attack-from-south-korea-to-target-users-in-japan
+ExoBot,"Marcher, Rahunok",-,TopTip,Oct-20,https://www.threatfabric.com/blogs/exobot_android_banking_trojan_on_the_rise.html
+ThiefBot,-,-,-,Sep-20,https://malpedia.caad.fkie.fraunhofer.de/details/apk.thiefbot
+FakeCop,SpyAgent,-,RoamingMantis,Jul-20,https://medium.com/csis-techblog/the-roamingmantis-groups-expansion-to-european-apple-accounts-and-android-devices-e6381723c681
+CometBot,-,BankBot,-,Jun-20,https://twitter.com/LukasStefanko/status/1102936772647022592
+EventBot,-,-,-,Jun-20,https://www.cybereason.com/blog/eventbot-a-new-mobile-banking-trojan-is-born
+FakeSpy,-,-,RoamingMantis,Jun-20,https://malpedia.caad.fkie.fraunhofer.de/details/apk.fakespy
+FunkyBot,Wroba.j,-,RoamingMantis,Jun-20,https://malpedia.caad.fkie.fraunhofer.de/details/apk.funkybot
+GINP,-,Anubis,-,Jun-20,https://malpedia.caad.fkie.fraunhofer.de/details/apk.ginp
+MobOK,-,-,-,Jun-20,https://blog.zimperium.com/zimperium-discovers-mobok-malware-left-undetected-by-mobile-av-industry-for-months/
+DEFENSOR ID,Defensor Digital,-,-,May-20,https://www.welivesecurity.com/2020/05/22/insidious-android-malware-gives-up-all-malicious-features-but-one-gain-stealth/
+Nautilus,-,Anubis,-,May-20,https://twitter.com/LukasStefanko/status/1257693195556831232
+Geost,-,-,-,Mar-20,https://www.trendmicro.com/en_us/research/20/c/dissecting-geost-exposing-the-anatomy-of-the-android-trojan-targeting-russian-banks.html
+TrickMo,-,-,WizardSpider,Mar-20,https://securityintelligence.com/posts/trickbot-pushing-a-2fa-bypass-app-to-bank-customers-in-germany/
+Xerxes,-,LokiBot,-,Mar-20,https://twitter.com/LukasStefanko/status/1244563630638731266?s=20
+Flexnet,Gugi,-,-,Feb-20,https://malpedia.caad.fkie.fraunhofer.de/details/apk.flexnet
+FakeToken,-,-,-,Jan-20,https://securelist.com/booking-a-taxi-for-faketoken/81457/
+Hqwar,Agent.BID,-,TopTip,Oct-19,https://securelist.com/hqwar-the-higher-it-flies-the-harder-it-drops/93689/
+CatsElite,MarsElite,-,TopTip,Aug-19,https://malpedia.caad.fkie.fraunhofer.de/details/apk.tinyz
+NeoBot,-,ExoBot,-,Nov-18,https://twitter.com/ThreatFabric/status/1059734713756196865
+Rotexy,-,-,-,Nov-18,https://securelist.com/the-rotexy-mobile-trojan-banker-and-ransomware/88893/
+DiseaseBot,-,-,-,Sep-18,https://twitter.com/cryptoinsane/status/1040537294577520640
+Razdel,-,BankBot,-,Sep-18,https://www.bleepingcomputer.com/news/security/trojanized-app-in-google-play-steals-bank-customers-euros/
+Asacub,Honli,-,TopTip,Aug-18,https://securelist.com/the-rise-of-mobile-banker-asacub/87591/
+Red Alert 2.0,-,-,-,Jul-18,https://news.sophos.com/en-us/2018/07/23/red-alert-2-0-android-trojan-targets-security-seekers/
+MysteryBot,-,LokiBot,-,Jun-18,https://www.threatfabric.com/blogs/mysterybot__a_new_android_banking_trojan_ready_for_android_7_and_8.html
+LokiBot,-,-,TopTip,Oct-17,https://malpedia.caad.fkie.fraunhofer.de/details/apk.lokibot
+SpyBanker,-,-,-,Feb-17,https://malpedia.caad.fkie.fraunhofer.de/details/apk.spybanker
+BankBot,-,-,-,Jan-17,https://www.revelock.com/en/blog/bankbot-evolution-to-date
+Cronbot,-,-,Cron,Nov-16,https://blog.group-ib.com/cron
+Svpeng,-,-,-,Nov-16,https://www.kaspersky.co.uk/blog/advertising-svpeng/7952/
