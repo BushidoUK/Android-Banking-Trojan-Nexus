@@ -1,5 +1,4 @@
 ﻿ Common Name, AKA, Code Similarities, Associated TAs, Last Reported, Source Link
-TangleBot,-,Medusa,-,Oct-21,https://www.proofpoint.com/us/blog/threat-insight/mobile-malware-tanglebot-untangled
 Alien,-,Cerberus,-ring0-,Sep-21,https://malpedia.caad.fkie.fraunhofer.de/details/apk.alien
 Anubis,-,BankBot,Maza-in,Sep-21,https://malpedia.caad.fkie.fraunhofer.de/details/apk.anubis
 Cerberus,-,-,ANDROID,Sep-21,https://malpedia.caad.fkie.fraunhofer.de/details/apk.cerberus
@@ -8,7 +7,7 @@ FluBot,"Cabassous, FakeChat",-,-,Sep-21,https://malpedia.caad.fkie.fraunhofer.de
 Gustuff,-,-,-,Sep-21,https://malpedia.caad.fkie.fraunhofer.de/details/apk.gustuff
 Hydra,-,-,-,Sep-21,https://malpedia.caad.fkie.fraunhofer.de/details/apk.hydra
 MalRhino,-,-,-,Sep-21,https://research.checkpoint.com/2021/pixstealer-a-new-wave-of-android-banking-trojans-abusing-accessibility-services/
-Medusa,Gorgona,-,-,Sep-21,https://malpedia.caad.fkie.fraunhofer.de/details/apk.medusa
+Medusa,"Gorgona, TangleBot",-,-,Sep-21,https://malpedia.caad.fkie.fraunhofer.de/details/apk.medusa
 PixStealer,-,-,-,Sep-21,https://research.checkpoint.com/2021/pixstealer-a-new-wave-of-android-banking-trojans-abusing-accessibility-services/
 SOVA,-,-,sovenok,Sep-21,https://malpedia.caad.fkie.fraunhofer.de/details/apk.sova
 TeaBot,"Toddler, Anatsa",-,-,Sep-21,https://malpedia.caad.fkie.fraunhofer.de/details/apk.anatsa
