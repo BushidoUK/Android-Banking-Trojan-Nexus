@@ -1,6 +1,7 @@
 ﻿ Common Name, AKA, Code Similarities, Associated TAs, Last Reported, Source Link
 SharkBot,-,-,-,Nov-21,https://www.cleafy.com/cleafy-labs/sharkbot-a-new-generation-of-android-trojan-is-targeting-banks-in-europe
 MasterFred,-,-,-,Nov-21,https://twitter.com/AvastThreatLabs/status/1458162276708483073
+AbstractEmu,-,-,-,Oct-21,https://blog.lookout.com/lookout-discovers-global-rooting-malware-campaign
 Alien,-,Cerberus,-ring0-,Sep-21,https://malpedia.caad.fkie.fraunhofer.de/details/apk.alien
 Anubis,-,BankBot,Maza-in,Sep-21,https://malpedia.caad.fkie.fraunhofer.de/details/apk.anubis
 Cerberus,-,-,ANDROID,Sep-21,https://malpedia.caad.fkie.fraunhofer.de/details/apk.cerberus
@@ -34,6 +35,7 @@ GINP,-,Anubis,-,Jun-20,https://malpedia.caad.fkie.fraunhofer.de/details/apk.ginp
 MobOK,-,-,-,Jun-20,https://blog.zimperium.com/zimperium-discovers-mobok-malware-left-undetected-by-mobile-av-industry-for-months/
 DEFENSOR ID,Defensor Digital,-,-,May-20,https://www.welivesecurity.com/2020/05/22/insidious-android-malware-gives-up-all-malicious-features-but-one-gain-stealth/
 Nautilus,-,Anubis,-,May-20,https://twitter.com/LukasStefanko/status/1257693195556831232
+Mandrake,-,-,-,May-20,https://www.bitdefender.com/blog/labs/mandrake-owning-android-devices-since-2016/
 Geost,-,-,-,Mar-20,https://www.trendmicro.com/en_us/research/20/c/dissecting-geost-exposing-the-anatomy-of-the-android-trojan-targeting-russian-banks.html
 TrickMo,-,-,WizardSpider,Mar-20,https://securityintelligence.com/posts/trickbot-pushing-a-2fa-bypass-app-to-bank-customers-in-germany/
 Xerxes,-,LokiBot,-,Mar-20,https://twitter.com/LukasStefanko/status/1244563630638731266?s=20
