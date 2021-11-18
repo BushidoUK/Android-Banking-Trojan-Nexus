@@ -1,4 +1,5 @@
 ﻿ Common Name, AKA, Code Similarities, Associated TAs, Last Reported, Source Link
+BrazKing,-,-,-,Nov-21,https://securityintelligence.com/posts/brazking-android-malware-upgraded-targeting-brazilian-banks/
 SharkBot,-,-,-,Nov-21,https://www.cleafy.com/cleafy-labs/sharkbot-a-new-generation-of-android-trojan-is-targeting-banks-in-europe
 MasterFred,-,BROX,-,Nov-21,https://twitter.com/AvastThreatLabs/status/1458162276708483073
 AbstractEmu,-,-,-,Oct-21,https://blog.lookout.com/lookout-discovers-global-rooting-malware-campaign
@@ -11,7 +12,7 @@ Gustuff,-,-,-,Sep-21,https://malpedia.caad.fkie.fraunhofer.de/details/apk.gustuf
 Hydra,-,-,-,Sep-21,https://malpedia.caad.fkie.fraunhofer.de/details/apk.hydra
 MalRhino,-,-,-,Sep-21,https://research.checkpoint.com/2021/pixstealer-a-new-wave-of-android-banking-trojans-abusing-accessibility-services/
 Medusa,"Gorgona, TangleBot",-,-,Sep-21,https://malpedia.caad.fkie.fraunhofer.de/details/apk.medusa
-PixStealer,-,-,-,Sep-21,https://research.checkpoint.com/2021/pixstealer-a-new-wave-of-android-banking-trojans-abusing-accessibility-services/
+PixStealer,-,BrazKing,-,Sep-21,https://research.checkpoint.com/2021/pixstealer-a-new-wave-of-android-banking-trojans-abusing-accessibility-services/
 SOVA,-,-,sovenok,Sep-21,https://malpedia.caad.fkie.fraunhofer.de/details/apk.sova
 TeaBot,"Toddler, Anatsa",-,-,Sep-21,https://malpedia.caad.fkie.fraunhofer.de/details/apk.anatsa
 Aberebot,-,Cerberus,AbereBankingBot,Jul-21,https://blog.cyble.com/2021/07/30/aberebot-on-the-rise-new-banking-trojan-targeting-users-through-phishing/
