@@ -2,6 +2,8 @@
 Medusa,"Gorgona, TangleBot",-,-,Feb-22,https://malpedia.caad.fkie.fraunhofer.de/details/apk.medusa
 MoqHao,"Shaoye, Xloader, Wroba.g",-,RoamingMantis,Feb-22,https://malpedia.caad.fkie.fraunhofer.de/details/apk.moqhao
 Hydra,-,-,-,Feb-22,https://malpedia.caad.fkie.fraunhofer.de/details/apk.hydra
+FluBot,"Cabassous, FakeChat",-,-,Feb-22,https://malpedia.caad.fkie.fraunhofer.de/details/apk.flubot
+Vultur,-,-,-,Jan-22,https://malpedia.caad.fkie.fraunhofer.de/details/apk.vultur
 BRATA,-,-,-,Jan-22,https://malpedia.caad.fkie.fraunhofer.de/details/apk.brata
 BrazKing,-,-,-,Nov-21,https://securityintelligence.com/posts/brazking-android-malware-upgraded-targeting-brazilian-banks/
 SharkBot,-,-,-,Nov-21,https://www.cleafy.com/cleafy-labs/sharkbot-a-new-generation-of-android-trojan-is-targeting-banks-in-europe
@@ -11,7 +13,6 @@ Alien,-,Cerberus,-ring0-,Sep-21,https://malpedia.caad.fkie.fraunhofer.de/details
 Anubis,-,BankBot,Maza-in,Sep-21,https://malpedia.caad.fkie.fraunhofer.de/details/apk.anubis
 Cerberus,-,-,ANDROID,Sep-21,https://malpedia.caad.fkie.fraunhofer.de/details/apk.cerberus
 ERMAC,-,Cerberus,DukeEugene,Sep-21,https://www.threatfabric.com/blogs/ermac-another-cerberus-reborn.html
-FluBot,"Cabassous, FakeChat",-,-,Sep-21,https://malpedia.caad.fkie.fraunhofer.de/details/apk.flubot
 Gustuff,-,-,-,Sep-21,https://malpedia.caad.fkie.fraunhofer.de/details/apk.gustuff
 MalRhino,-,-,-,Sep-21,https://research.checkpoint.com/2021/pixstealer-a-new-wave-of-android-banking-trojans-abusing-accessibility-services/
 PixStealer,-,BrazKing,-,Sep-21,https://research.checkpoint.com/2021/pixstealer-a-new-wave-of-android-banking-trojans-abusing-accessibility-services/
@@ -20,7 +21,6 @@ TeaBot,"Toddler, Anatsa",-,-,Sep-21,https://malpedia.caad.fkie.fraunhofer.de/det
 Aberebot,-,Cerberus,AbereBankingBot,Jul-21,https://blog.cyble.com/2021/07/30/aberebot-on-the-rise-new-banking-trojan-targeting-users-through-phishing/
 Coper,-,-,-,Jul-21,https://news.drweb.com/show/?p=0&lng=en&i=14259&c=0
 Oscorp,UBEL,-,-,Jul-21,https://malpedia.caad.fkie.fraunhofer.de/details/apk.oscorp
-Vultur,-,-,-,Jul-21,https://www.threatfabric.com/blogs/vultur-v-for-vnc.html
 Basbanke,"BrazKing, Banbra",-,-,Apr-21,https://securelist.com/basbanke-trend-setting-brazilian-banking-trojan/90365/
 BlackRock,-,"Xerxes, LokiBot",DukeEugene,Mar-21,https://www.threatfabric.com/blogs/blackrock_the_trojan_that_wanted_to_get_them_all.html
 Huracan,-,-,-,Feb-21,https://twitter.com/Bank_Security/status/1363930541372891137
