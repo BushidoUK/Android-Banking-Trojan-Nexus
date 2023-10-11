@@ -1,4 +1,4 @@
-C2,sha256,package,appname,firstseen
+C2,sha256,package,appname,firstseen (unix timestamp)
 148.66.24[.]126,aabaa4f6eccf18c8d7d045dbb14fdfb401e9886a2433aefe2597034a44f8c6b4,com.kbs66202105316.activity1,"Samsung",1696661335
 148.66.24[.]126,a257189ebf478014f742b020a89a2aa6b1fdde0e4c2d9fcf609b2dcbf72a8f05,com.kbs66202105175.activity1,"Samsung",1695541063
 148.66.24[.]126,05ef94f30bb808c9fd1c1aaf66257ff5d2b14e1e2ddc7312dd372951a9f0d35a,com.kbs66202106177.activity,"Samsung",1691999775
